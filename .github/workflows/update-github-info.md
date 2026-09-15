@@ -1,5 +1,6 @@
 ---
 name: update-github-info
+model: gpt-5
 on:
   schedule:
     - cron: "0 9 * * *"
